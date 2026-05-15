@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/D/companies/ge_vernova/smart-grid-anomaly/mlruns/376127421639753058/a8c791ecb44c49868a8ebc12ddb61728/artifacts
+end_time: 1777442641917
+entry_point_name: ''
+experiment_id: '376127421639753058'
+lifecycle_stage: active
+run_id: a8c791ecb44c49868a8ebc12ddb61728
+run_name: isolation_forest
+run_uuid: a8c791ecb44c49868a8ebc12ddb61728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777442631103
+status: 3
+tags: []
+user_id: ponna
